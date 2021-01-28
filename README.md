@@ -1,7 +1,7 @@
 # Google-Ads-Keyword-Research
 Google Ads Keyword Research
 
-```
+```python
 from IPython.display import display, HTML
 import pandas as pd
 import json 
